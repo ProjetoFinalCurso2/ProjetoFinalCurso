@@ -547,7 +547,7 @@ namespace ProjetoFinal
                             writer.WriteLine($"Nome: {item.Nome}");
                             if (item.CodigoProfessor != 0)
                             {
-                                writer.WriteLine($"Professor: {professorNegocioWrite.Selecionar(item.CodigoProfessor).Nome}");
+                                writer.WriteLine($"Professora: {professorNegocioWrite.Selecionar(item.CodigoProfessor).Nome}");
                             }
                             writer.WriteLine();
                         }
