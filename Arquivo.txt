@@ -1,0 +1,56 @@
+Cursos
+-----------------------------------------------------------------
+Código: 1
+Nome: Curso C#
+
+Código: 2
+Nome: Curso Java
+
+
+Professores
+-----------------------------------------------------------------
+Código: 1
+Nome: José Aguiar
+Idade: 50
+RG: 25.420.401-6
+Celular: (21) 99567-5430
+E-mail: aguiar@gmail.com
+
+Código: 2
+Nome: Maria Rita
+Idade: 55
+RG: 29.404.069-9
+Celular: (51) 98236-3061
+E-mail: rita@hotmail.com
+
+
+Alunos
+-----------------------------------------------------------------
+Código: 1
+Nome: Maria Helena Moraes
+Idade: 18
+RG: 27.732.520-1
+Celular: (92) 98149-3651
+E-mail: mari@hotmail.com
+
+Código: 0
+Nome: Marcela Isabelly Porto
+Idade: 22
+RG: 30.433.372-4
+Celular: (61) 99126-1470
+E-mail: isa@yahoo.com
+
+Código: 0
+Nome: Luís Henrique Moreira
+Idade: 25
+RG: 26.907.081-3
+Celular: (51) 98405-2343
+E-mail: henrique@gmail.com
+
+Código: 0
+Nome: Anderson João Barros
+Idade: 23
+RG: 17.746.170-6
+Celular: (92) 98334-1784
+E-mail: andersonjoa@hotmail.com.br
+
